@@ -4,7 +4,6 @@ typedef long long ll;
 const int N = 20;
 vector<pair<int, int>> lim[N];
 ll n, m, dp[1 << N];
-
 int main()
 {
     cin >> n >> m;
@@ -42,3 +41,5 @@ int main()
     printf("%lld\n", dp[(1 << n) - 1]);
     return 0;
 }
+
+// @pid 11
