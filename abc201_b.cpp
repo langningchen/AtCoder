@@ -16,4 +16,4 @@ int main()
     return 0;
 }
 
-// @pid 2
+// @pid 2 @lang cc.cc20o2

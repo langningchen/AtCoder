@@ -10,4 +10,4 @@ int main()
     return 0;
 }
 
-// @pid 44 @tid 676b4fdd6da1c1cdd688024f
+// @pid 44 @lang cc.cc20o2

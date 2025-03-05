@@ -18,4 +18,4 @@ int main()
     return 0;
 }
 
-// @pid 9
+// @pid 9 @lang cc.cc20o2
